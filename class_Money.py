@@ -30,3 +30,4 @@ money = Money(den_bank)
 
 money.consider_amount_money()
 #print(money.total_money)
+print(NEKO ONE LOVE)
